@@ -7,6 +7,8 @@
 // @match        https://lovephysics.sysu.edu.cn/*
 // @run-at       document-end
 // @grant        none
+// @author       Du
+// @namespace    https://github.com/pipidu/lovephysicsVideoFix/
 // ==/UserScript==
 
 (function () {
