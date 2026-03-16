@@ -1,7 +1,6 @@
 // ==UserScript==
 // @name         lovephysics.sysu.edu.cn Flash Flowplayer -> flv.js
-// @namespace    https://lovephysics.sysu.edu.cn/
-// @version      1.0.0
+// @version      1.0.1
 // @description  Replace legacy Flash flowplayer embeds with flv.js (cdnjs) HTML5 player on lovephysics.sysu.edu.cn
 // @match        http://lovephysics.sysu.edu.cn/*
 // @match        https://lovephysics.sysu.edu.cn/*
