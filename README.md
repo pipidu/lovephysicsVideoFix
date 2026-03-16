@@ -4,4 +4,4 @@
 
 ## 安装
 
-[安装脚本](https://raw.githubusercontent.com/pipidu/lovephysicsVideoFix/main/main.js)
+[安装脚本](https://raw.githubusercontent.com/pipidu/lovephysicsVideoFix/main/main.user.js)
